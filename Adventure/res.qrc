@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/play_button.png</file>
+        <file>image/help_button.png</file>
+        <file>image/quit_button.png</file>
+        <file>image/start_menu.png</file>
+        <file>image/help_bg.png</file>
+        <file>image/help_return_button.png</file>
+        <file>image/story_bg.png</file>
+        <file>image/story_continue_button.png</file>
+        <file>image/game_map_bg.png</file>
+        <file>image/game_map_help_button.png</file>
+        <file>image/game_map_return_button.png</file>
+        <file>image/start_point.png</file>
+        <file>image/start_point_bg.png</file>
+        <file>image/accident_point.png</file>
+        <file>image/rest_point.png</file>
+        <file>image/story_point.png</file>
+        <file>image/treasure_point.png</file>
+        <file>image/treasure_point_bg.png</file>
+        <file>image/unknown_point.png</file>
+        <file>image/war_point.png</file>
+        <file>image/choose_button.png</file>
+        <file>image/treasure_quit_button.png</file>
+        <file>image/treasure_quit_button_2.png</file>
+        <file>image/treasure_step_forward_button.png</file>
+        <file>image/life_icon.png</file>
+        <file>image/light_icon.png</file>
+        <file>image/down_arrow.png</file>
+        <file>image/left_arrow.png</file>
+        <file>image/right_arrow.png</file>
+        <file>image/up_arrow.png</file>
+        <file>image/war_point_bg.png</file>
+        <file>image/war_enter_button.png</file>
+        <file>image/war_quit_button.png</file>
+        <file>image/war_quit_button_2.png</file>
+        <file>image/war_step_forward_button.png</file>
+        <file>image/story_quit_button.png</file>
+        <file>image/story_step_forward_button.png</file>
+        <file>image/story_point_bg.png</file>
+        <file>image/accident_point_bg.png</file>
+        <file>image/accident_quit_button_1.png</file>
+        <file>image/accident_step_forward_button_1.png</file>
+    </qresource>
+</RCC>
