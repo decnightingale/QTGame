@@ -180,5 +180,6 @@
         <file>image/monster_1.png</file>
         <file>image/small_map.png</file>
         <file>image/damage_button.png</file>
+        <file>image/help_6.png</file>
     </qresource>
 </RCC>
