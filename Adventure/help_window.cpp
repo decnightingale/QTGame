@@ -5,7 +5,7 @@ help_window::help_window(QWidget* parent):QWidget(parent),index(1)
     m_Button* continue_button = new m_Button(this,false,":/image/next_button.png");
     continue_button->move(730,500);
     connect(continue_button,&m_Button::clicked,[=](){
-        if(index>=5)
+        if(index>=6)
             emit return_called();
         else{
             index++;
@@ -36,6 +36,9 @@ void help_window::paintEvent(QPaintEvent* event)
         break;
     case 5:
         bg_path = ":/image/help_5.png";
+        break;
+    case 6:
+        bg_path = ":/image/help_6.png";
         break;
     default:
         bg_path = ":/image/help_bg.png";
